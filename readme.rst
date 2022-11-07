@@ -1,8 +1,15 @@
 ######################
+NF-BackEnd - A prototype program designed to manage and track individual farms produces as-well as perform basic quantitative statistics.  
+The concept was designed to evaluate the effectivness of ICT tools  urban community farming operations with reference to Neighbourhood Farm, a project committed to the development of community market gardens for the growing of organic crops in the Deep South Peninsula area of Cape Town.
+
+Program was developed in PHP using CodeIgniter, an Application Development Framework - a toolkit - for people
+who build web sites using PHP. See below for more details about the toolkit.
+
+######################
 Super Admin Crednetial
 ######################
 email: admin@admin.com
-password: justin2018
+password: **********
 
 database name: 'stock' - when setting up your local server for this project please read the SETUP_README file
 
