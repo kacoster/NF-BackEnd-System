@@ -1,4 +1,3 @@
-######################
 NF-BackEnd - A prototype program designed to manage and track individual farms produces as-well as perform basic quantitative statistics.  
 The concept was designed to evaluate the effectivness of ICT tools  urban community farming operations with reference to Neighbourhood Farm, a project committed to the development of community market gardens for the growing of organic crops in the Deep South Peninsula area of Cape Town.
 
